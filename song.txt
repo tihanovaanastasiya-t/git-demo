@@ -2,3 +2,7 @@ sword
 wall
 sand
 on
+
+
+hjkl
+ghj
